@@ -1,5 +1,5 @@
 {
-  "bot" : {
+  "bot": {
     "title": "修復問題",
     "value": "修復內容更新都在裡面",
     "type": "bot",
@@ -39,7 +39,7 @@
       }
     ]
   },
-  "server" : {
+  "command": {
     "title": "新功能",
     "value": "增加了一些新的指令功能",
     "type": "command",
@@ -63,13 +63,13 @@
       }
     ]
   },
-  "command" : {
+  "server": {
     "title": "系統更新",
     "value": "優化了伺服器性能",
     "type": "server",
     "time": "2025-04-29"
   },
-  "giveaway" : {
+  "giveaway": {
     "title": "特別活動",
     "value": "限時禮物大放送",
     "type": "giveaway",
