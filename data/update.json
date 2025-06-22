@@ -46,6 +46,14 @@
     "time": "2025-06-18",
     "data": [
       {
+        "id": "2",
+        "title": "新增 匿名系統 檢查網址服務",
+        "value": "無",
+        "message": "s!setamsch 進階設定\n[圖片](https://raw.githubusercontent.com/PiscesXD/dingbot-web-data/refs/heads/main/data/images/2025-06-22-1.png)",
+        "time": "2025-06-21",
+        "level": 0
+      },
+      {
         "id": "1",
         "title": "新增貓咪照片",
         "value": "無",
