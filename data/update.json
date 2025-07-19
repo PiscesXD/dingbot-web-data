@@ -43,8 +43,16 @@
     "title": "新功能",
     "value": "增加了一些新的指令功能",
     "type": "command",
-    "time": "2025-06-18",
+    "time": "2025-07-19",
     "data": [
+      {
+        "id": "3",
+        "title": "修復 天氣預報系統",
+        "value": "更直觀的方式呈現",
+        "message": "s!wf 更直觀的方式呈現\n[圖片](https://raw.githubusercontent.com/PiscesXD/dingbot-web-data/refs/heads/main/data/images/2025-07-19-1.png)",
+        "time": "2025-07-19",
+        "level": 0
+      },
       {
         "id": "2",
         "title": "新增 匿名系統 檢查網址服務",
